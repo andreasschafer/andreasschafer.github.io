@@ -5,7 +5,9 @@ permalink: /hobbies/
 author_profile: true
 ---
 
-I generally enjoy spending time in the mountains, or nature in general. In summer that includes a lot of
+<p style="font-size: 1.2em; margin-top: 35px; margin-bottom: 10px;">
+  I generally enjoy spending time in the mountains, or nature in general. In summer that includes a lot of
+</p>
 
 ### Trailrunning
 <div style="display: flex; gap: 12px; flex-wrap: wrap;">
@@ -18,7 +20,10 @@ I generally enjoy spending time in the mountains, or nature in general. In summe
        style="width: 65%; border-radius: 6px;">
 </div>
 
-some 
+<p style="font-size: 1.2em; margin-top: 35px; margin-bottom: 10px;">
+  some
+</p>
+
 ### Climbing and Mountaineering
 <div style="display: flex; gap: 12px; flex-wrap: wrap;">
   <img src="/images/hobbies/ecrins.jpg"
@@ -30,7 +35,10 @@ some
        style="width: 32%; border-radius: 6px;">
 </div>
 
-and a bit of 
+<p style="font-size: 1.2em; margin-top: 35px; margin-bottom: 10px;">
+  and a bit of
+</p>
+
 ### Hiking and Cycling
 <div style="display: flex; gap: 12px; flex-wrap: wrap;">
   <img src="/images/hobbies/cycl1.JPG"
@@ -43,33 +51,61 @@ and a bit of
 </div>
 
 
-My winters ideally include a lot 
+<p style="font-size: 1.2em; margin-top: 35px; margin-bottom: 10px;">
+  My winters ideally include a lot of
+</p>
+
 ### Skitouring
+<div style="display: flex; gap: 12px; flex-wrap: wrap;">
+  <img src="/images/hobbies/ski1.JPG"
+       alt="Mountains"
+       style="width: 32%; border-radius: 6px;">
+
+  <img src="/images/hobbies/ski2.jpg"
+       alt="Hiking"
+       style="width: 32%; border-radius: 6px;">
+  <img src="/images/hobbies/ski3.jpg"
+       alt="Hiking"
+       style="width: 32%; border-radius: 6px;">
+</div>
 
 
 I particularly enjoy taking my camera with me. While I started with an analogue camera, I have recently switched to digital
-## Phtography 
+## Photography 
 <style>
+/* Masonry gallery */
 .photo-gallery {
   columns: 3;
   column-gap: 12px;
+}
+
+.photo-gallery a {
+  display: block;
+  break-inside: avoid;
+  margin-bottom: 12px;
 }
 
 .photo-gallery img {
   width: 100%;
   height: auto;
   display: block;
-  margin-bottom: 12px;
   border-radius: 5px;
-  break-inside: avoid;
+  cursor: zoom-in;
+  transition: opacity 0.2s;
 }
 
+.photo-gallery img:hover {
+  opacity: 0.85;
+}
+
+/* Tablet */
 @media (max-width: 700px) {
   .photo-gallery {
     columns: 2;
   }
 }
 
+/* Phone */
 @media (max-width: 450px) {
   .photo-gallery {
     columns: 1;
@@ -78,14 +114,43 @@ I particularly enjoy taking my camera with me. While I started with an analogue 
 </style>
 
 <div class="photo-gallery">
-  <img src="/images/hobbies/000049.JPG" alt="Photo 1">
-  <img src="/images/hobbies/000069.JPG" alt="Photo 2">
-  <img src="/images/hobbies/C018371-R1-05-7.JPG" alt="Photo 3">
-  <img src="/images/hobbies/C018371-R1-20-22.JPG" alt="Photo 4">
-  <img src="/images/hobbies/C018806-R1-18-17A.JPG" alt="Photo 5">
-  <img src="/images/hobbies/C020442-R1-15-21A.JPG" alt="Photo 6">
-  <img src="/images/hobbies/C022302-R1-10-11A.JPG" alt="Photo 7">
-  <img src="/images/hobbies/C022302-R1-30-31A.JPG" alt="Photo 8">
-  <img src="/images/hobbies/C022883-R1-11-9A.JPG" alt="Photo 9">
-  <img src="/images/hobbies/C022883-R1-23-21A.JPG" alt="Photo 10">
+  <a href="/images/hobbies/photo1.jpg" class="image-popup">
+    <img src="/images/hobbies/photo1.jpg" alt="Photo 1">
+  </a>
+
+  <a href="/images/hobbies/photo2.jpg" class="image-popup">
+    <img src="/images/hobbies/photo2.jpg" alt="Photo 2">
+  </a>
+
+  <a href="/images/hobbies/photo3.jpg" class="image-popup">
+    <img src="/images/hobbies/photo3.jpg" alt="Photo 3">
+  </a>
+
+  <a href="/images/hobbies/photo4.jpg" class="image-popup">
+    <img src="/images/hobbies/photo4.jpg" alt="Photo 4">
+  </a>
+
+  <a href="/images/hobbies/photo5.jpg" class="image-popup">
+    <img src="/images/hobbies/photo5.jpg" alt="Photo 5">
+  </a>
+
+  <a href="/images/hobbies/photo6.jpg" class="image-popup">
+    <img src="/images/hobbies/photo6.jpg" alt="Photo 6">
+  </a>
+
+  <a href="/images/hobbies/photo7.jpg" class="image-popup">
+    <img src="/images/hobbies/photo7.jpg" alt="Photo 7">
+  </a>
+
+  <a href="/images/hobbies/photo8.jpg" class="image-popup">
+    <img src="/images/hobbies/photo8.jpg" alt="Photo 8">
+  </a>
+
+  <a href="/images/hobbies/photo9.jpg" class="image-popup">
+    <img src="/images/hobbies/photo9.jpg" alt="Photo 9">
+  </a>
+
+  <a href="/images/hobbies/photo10.jpg" class="image-popup">
+    <img src="/images/hobbies/photo10.jpg" alt="Photo 10">
+  </a>
 </div>
