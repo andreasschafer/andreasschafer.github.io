@@ -9,7 +9,7 @@ redirect_from:
 
 # Welcome!
 
-I am a PhD student in mathematical physics, specifically focused on Quantum Walks and their long-time dynamics.
+I am a PhD student in mathematical physics, studying Quantum Walks and their long-time dynamics.
 
 I am currently finishing my PhD at Université Grenoble Alpes.
 
