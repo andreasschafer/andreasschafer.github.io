@@ -100,8 +100,10 @@ author_profile: true
   </a>
 </div>
 
+<p style="font-size: 1.2em; margin-top: 35px; margin-bottom: 10px;">
+  I particularly enjoy taking my camera with me. While I started with an analogue camera, I have recently switched to digital
+</p>
 
-I particularly enjoy taking my camera with me. While I started with an analogue camera, I have recently switched to digital
 ## Photography 
 <style>
 /* Masonry gallery */
