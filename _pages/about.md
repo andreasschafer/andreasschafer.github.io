@@ -22,10 +22,7 @@ My research interests include:
 - The effects of disorder induced by randomness
 - Open quantum systems
 
-## Publications
+## Contact
 
-My publications will be listed here soon.
-
-## Outside Mathematics
-
-I also enjoy hiking, travelling, and photography.
+- Email: andreas.schaefer@univ-grenoble-alpes.fr
+- Office: Bureau 226, 100 rue des maths, 38610 Gières, France
