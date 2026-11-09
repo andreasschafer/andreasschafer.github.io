@@ -28,4 +28,4 @@ author_profile: true
 - Oct. - Dec. 2024 at Technical University of Munich under the supervision of Simone Warzel
 
 ## Conferences organized
-During the course of my PhD project, I had the pleasure to organize a workshop together with 5 other PhD students from the [QuanG](https://phdquantumgrenoble.univ-grenoble-alpes.fr/) doctoral program. Coming from different fields, we decided for Nanomagnetism as a topic, organizing the [Grenoble Workshop on Nanomagnetism 2026](https://gwn2026.sciencesconf.org/), which took place from the 23rd to the 26th of June in Grenoble.
+During the course of my PhD project, I had the pleasure to organize a workshop together with 5 other PhD students from the [QuanG](https://phdquantumgrenoble.univ-grenoble-alpes.fr/) doctoral program. Coming from different fields, we decided on Nanomagnetism as a topic, organizing the [Grenoble Workshop on Nanomagnetism 2026](https://gwn2026.sciencesconf.org/), which took place from the 23rd to the 26th of June 2026 in Grenoble.
