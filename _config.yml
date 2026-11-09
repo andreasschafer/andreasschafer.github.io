@@ -9,12 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Your Name / Site Title"
+title                    : "Andreas Schäfer"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://academicpages.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
-                                                           # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+name : &name "Andreas Schäfer"
+description : &description "Personal website of Andreas Schäfer"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -25,8 +23,8 @@ author:
   # Biographic information
   avatar           : "profile.jpg"
   name             : "Andreas Schäfer"
-  pronouns         : "he/him"
-  bio              : "Short biography for the left-hand sidebar"
+  pronouns         : "Pronouns: he/him"
+  bio              : "PhD student in Mathematical physics, focusing primarily on the long-time dynamics of Quantum Walks"
   location         : "Grenoble, France"
   employer         : "Université Grenoble Alpes"
   uri              : # URL
