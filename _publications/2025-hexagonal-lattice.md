@@ -2,7 +2,7 @@
 title: "Dynamical Localization and Transport properties of Quantum Walks on the hexagonal lattice"
 collection: publications
 category: manuscripts
-permalink: /publication/2026-01-15-my-first-paper
+permalink: /publication/2025-hexagonal-lattice
 date: 2025-10-08
 venue: "Journal of Mathematical Physics, Analysis and Geometry"
 paperurl: "https://link.springer.com/article/10.1007/s11040-025-09531-1"
