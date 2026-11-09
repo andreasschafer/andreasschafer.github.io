@@ -7,58 +7,24 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+## Education
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+- Oct. 2023 - Dec. 2026: PhD in Mathematics, Université Grenoble Alpes, Title: *Random Quantum Walks, Transport and Out-of-Equilibrium Dynamics*, Supervisor: Alain Joye
+- Oct. 2021 - Aug. 2023: Master in Mathematics, Technical University Munich. Masterthesis: *Topological indices of Quantum Walks*, Supervisor: Simone Warzel [PDF version](/files/Masterthesis.pdf)
+- Oct. 2017 - Aug. 2021: Bachelor in Mathematics, Technical University Munich. Bachelorthesis: *Konvergenz des Zentralen Grenzwertsatzes in Sobolev Räumen*, Supervisor: Daniel Matthes [PDF version](/files/Bachelorarbeit.pdf)
+- Sep. 2008 - Jun. 2016: Highschool at Friedrich-Alexander-Gymnasium Neustadt a.d. Aisch
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+## Stays Abroad
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+- Oct. 2025 - Dec. 2025: Research stay at Pontificia Universidad Católica de Chile, Santiago de Chile
+- Oct. 2024 - Dec. 2024: Research stay at Technical University of Munich (not really abroad to be honest)
+- Sep. 2021 - Jun. 2022: Erasmus studies at Université Grenoble Alpes, France
+- Aug. 2019 - Aug. 2020: Erasmus studies at Universitetet i Bergen, Norway
+- Sep. 2016 - Apr. 2017: Work and Travel stay in Australia
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+## Languages and other skills
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+- German (C2), English (C2), French (B2/C1), Spanish (B1)
+- experienced in Python and Java, basic knowledge in R, Matlab and Julia
+
+[PDF version](/files/CV.pdf)
