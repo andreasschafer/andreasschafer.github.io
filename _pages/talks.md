@@ -11,7 +11,7 @@ author_profile: true
 - Oct. 2026, Seminar of Mathematical Physics, Grenoble, France: *Dynamical Localization for General Scattering Quantum Walks*.
 - Feb. 2026, Group de Travail QMath, Grenoble, France: *Dynamical Localization for Random Quantum Walks*. [Slides](/files/pres_qdt_qmath26.pdf)
 - Jan. 2026, PhD Seminar, Grenoble, France: *A topological index for Quantum Walks*
-- Nov. 2025, Coloquio del Departamento de Ingeniería Matemática, Concepcion, Chile: *An introduction to Quantum Walks*
+- Nov. 2025, Coloquio del Departamento de Ingeniería Matemática, Concepción, Chile: *An introduction to Quantum Walks*
 - Sep. 2025, Quantissima sur Oise, Cergy, France: *Dynamical Localization of Quantum Walks on the hexagonal lattice in the regime of strong disorder* [Slides](/files/pres_quantissima25.pdf)
 - Sep. 2025, QMath16, Munich, Germany: *Dynamical Localization of Quantum Walks in the regime of strong disorder*
 - May 2025, Bread Confestival (not a serious conference), Gites de Souberoche, Die, France: *Bread and Mathematics: some surprising links* [Slides](/files/pres_confestival25.pdf)
@@ -26,3 +26,6 @@ author_profile: true
 ## Research visits
 - Oct. - Dec. 2025 at Pontificia Universidad Católica de Chile under the supervision of Olivier Bourget
 - Oct. - Dec. 2024 at Technical University of Munich under the supervision of Simone Warzel
+
+## Conferences organized
+During the course of my PhD project, I had the pleasure to organize a workshop together with 5 other PhD students from the [QuanG](https://phdquantumgrenoble.univ-grenoble-alpes.fr/) doctoral program. Coming from different fields, we decided for Nanomagnetism as a topic, organizing the [Grenoble Workshop on Nanomagnetism 2026](https://gwn2026.sciencesconf.org/), which took place from the 23rd to the 26th of June in Grenoble.
