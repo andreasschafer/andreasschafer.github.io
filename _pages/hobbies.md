@@ -95,7 +95,7 @@ author_profile: true
 </div>
 
 <p style="font-size: 1.2em; margin-top: 35px; margin-bottom: 10px;">
-  I particularly enjoy taking my camera with me. While I started with analogue photography, I have recently switched to a digital camera
+  I particularly enjoy taking my camera with me wherever I go. While I started with analogue photography, I have recently switched to a digital camera
 </p>
 
 ## Photography 
