@@ -22,6 +22,10 @@ My research interests include:
 - The effects of disorder induced by randomness
 - Open quantum systems
 
+## PhD Thesis
+
+My PhD project is titled "Random Quantum Walks, Transport and Out-of-Equilibirum Dynamics". The defense will take place on the 15th of December and the manuscript will be available here shortly.
+
 ## Contact
 
 - Email: andreas.schaefer@univ-grenoble-alpes.fr
