@@ -92,6 +92,13 @@ author_profile: true
          style="width: 100%; border-radius: 6px; cursor: zoom-in;">
   </a>
 
+  <a href="/images/hobbies/ski3.JPG"
+     class="image-popup" style="width: 32%;">
+    <img src="/images/hobbies/ski3.JPG"
+         alt="Skitouring"
+         style="width: 100%; border-radius: 6px; cursor: zoom-in;">
+  </a>
+
 </div>
 
 <p style="font-size: 1.2em; margin-top: 35px; margin-bottom: 10px;">
