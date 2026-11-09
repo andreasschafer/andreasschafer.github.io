@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 <p style="font-size: 1.2em; margin-top: 35px; margin-bottom: 10px;">
-  I generally enjoy spending time in the mountains, or nature in general. In summer that includes a lot of
+  I enjoy spending time in the mountains, or nature in general. In summer that includes a lot of
 </p>
 
 ### Trailrunning
