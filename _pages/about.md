@@ -17,9 +17,9 @@ I am currently finishing my PhD at Université Grenoble Alpes.
 
 My research interests include:
 
-- Quantum walks
-- Dynamical localization
-- Topological invariants
+- Dynamical localization, in particular the Aizenman-Molchanov method, fractional moment estimates and eigenfunction correlators
+- Topological invariants and their relation to transport
+- The effects of disorder induced by randomness
 - Open quantum systems
 
 ## Publications
