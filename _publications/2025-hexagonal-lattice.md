@@ -5,6 +5,7 @@ category: manuscripts
 permalink: /publication/2025-hexagonal-lattice
 date: 2025-10-08
 venue: "Journal of Mathematical Physics, Analysis and Geometry"
+authors: "A. Schaefer"
 paperurl: "https://link.springer.com/article/10.1007/s11040-025-09531-1"
 citation: "Schaefer, A. (2025)"
 ---

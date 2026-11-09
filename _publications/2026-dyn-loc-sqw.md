@@ -5,6 +5,7 @@ category: preprints
 permalink: /publication/2026-dyn-loc-sqw
 date: 2026-02-13
 venue: "arXiv"
+authors: "A. Joye, A. Schaefer, S. Warzel"
 paperurl: "https://arxiv.org/abs/2602.12760"
 citation: "Joye, A. and Schaefer, A. and Warzel S. (2026)"
 ---
