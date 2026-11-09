@@ -10,14 +10,21 @@ author_profile: true
 </p>
 
 ### Trailrunning
-<div style="display: flex; gap: 12px; flex-wrap: wrap;">
-  <img src="/images/hobbies/GTVUT.jpg"
-       alt="Mountains"
-       style="width: 32%; border-radius: 6px;">
 
-  <img src="/images/hobbies/Skyrace Matheysins 1.jpg"
-       alt="Hiking"
-       style="width: 65%; border-radius: 6px;">
+<div style="display: flex; gap: 12px; flex-wrap: wrap;">
+  <a href="/images/hobbies/GTVUT.jpg"
+     class="image-popup" style="width: 32%;">
+    <img src="/images/hobbies/GTVUT.jpg"
+         alt="Trailrunning"
+         style="width: 100%; border-radius: 6px; cursor: zoom-in;">
+  </a>
+
+  <a href="/images/hobbies/Skyrace Matheysins 1.jpg"
+     class="image-popup" style="width: 65%;">
+    <img src="/images/hobbies/Skyrace Matheysins 1.jpg"
+         alt="Trailrunning"
+         style="width: 100%; border-radius: 6px; cursor: zoom-in;">
+  </a>
 </div>
 
 <p style="font-size: 1.2em; margin-top: 35px; margin-bottom: 10px;">
@@ -25,14 +32,21 @@ author_profile: true
 </p>
 
 ### Climbing and Mountaineering
-<div style="display: flex; gap: 12px; flex-wrap: wrap;">
-  <img src="/images/hobbies/ecrins.jpg"
-       alt="Mountains"
-       style="width: 65%; border-radius: 6px;">
 
-  <img src="/images/hobbies/climb1.jpg"
-       alt="Hiking"
-       style="width: 32%; border-radius: 6px;">
+<div style="display: flex; gap: 12px; flex-wrap: wrap;">
+  <a href="/images/hobbies/ecrins.jpg"
+     class="image-popup" style="width: 65%;">
+    <img src="/images/hobbies/ecrins.jpg"
+         alt="Climbing and mountaineering"
+         style="width: 100%; border-radius: 6px; cursor: zoom-in;">
+  </a>
+
+  <a href="/images/hobbies/climb1.jpg"
+     class="image-popup" style="width: 32%;">
+    <img src="/images/hobbies/climb1.jpg"
+         alt="Climbing and mountaineering"
+         style="width: 100%; border-radius: 6px; cursor: zoom-in;">
+  </a>
 </div>
 
 <p style="font-size: 1.2em; margin-top: 35px; margin-bottom: 10px;">
@@ -40,33 +54,50 @@ author_profile: true
 </p>
 
 ### Hiking and Cycling
+
 <div style="display: flex; gap: 12px; flex-wrap: wrap;">
-  <img src="/images/hobbies/cycl1.JPG"
-       alt="Mountains"
-       style="width: 32%; border-radius: 6px;">
+  <a href="/images/hobbies/cycl1.JPG"
+     class="image-popup" style="width: 32%;">
+    <img src="/images/hobbies/cycl1.JPG"
+         alt="Cycling"
+         style="width: 100%; border-radius: 6px; cursor: zoom-in;">
+  </a>
 
-  <img src="/images/hobbies/nadelgrat2.jpg"
-       alt="Hiking"
-       style="width: 65%; border-radius: 6px;">
+  <a href="/images/hobbies/nadelgrat2.jpg"
+     class="image-popup" style="width: 65%;">
+    <img src="/images/hobbies/nadelgrat2.jpg"
+         alt="Hiking"
+         style="width: 100%; border-radius: 6px; cursor: zoom-in;">
+  </a>
 </div>
-
 
 <p style="font-size: 1.2em; margin-top: 35px; margin-bottom: 10px;">
   My winters ideally include a lot of
 </p>
 
 ### Skitouring
-<div style="display: flex; gap: 12px; flex-wrap: wrap;">
-  <img src="/images/hobbies/ski1.JPG"
-       alt="Mountains"
-       style="width: 32%; border-radius: 6px;">
 
-  <img src="/images/hobbies/ski2.jpg"
-       alt="Hiking"
-       style="width: 32%; border-radius: 6px;">
-  <img src="/images/hobbies/ski3.jpg"
-       alt="Hiking"
-       style="width: 32%; border-radius: 6px;">
+<div style="display: flex; gap: 12px; flex-wrap: wrap;">
+  <a href="/images/hobbies/ski1.JPG"
+     class="image-popup" style="width: 32%;">
+    <img src="/images/hobbies/ski1.JPG"
+         alt="Skitouring"
+         style="width: 100%; border-radius: 6px; cursor: zoom-in;">
+  </a>
+
+  <a href="/images/hobbies/ski2.jpg"
+     class="image-popup" style="width: 32%;">
+    <img src="/images/hobbies/ski2.jpg"
+         alt="Skitouring"
+         style="width: 100%; border-radius: 6px; cursor: zoom-in;">
+  </a>
+
+  <a href="/images/hobbies/ski3.jpg"
+     class="image-popup" style="width: 32%;">
+    <img src="/images/hobbies/ski3.jpg"
+         alt="Skitouring"
+         style="width: 100%; border-radius: 6px; cursor: zoom-in;">
+  </a>
 </div>
 
 
