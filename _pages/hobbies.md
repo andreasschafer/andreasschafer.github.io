@@ -241,3 +241,7 @@ author_profile: true
     <img src="/images/hobbies/photo31.JPG" alt="Photo 31">
   </a>
 </div>
+
+<img src="/images/hobbies/photo1.JPG"
+     alt="Test photograph"
+     style="width: 300px;">
