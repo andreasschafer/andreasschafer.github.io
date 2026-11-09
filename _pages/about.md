@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-# Welcome!
+# Welcome! Servus! Bonjour! Hola!
 
 I am a PhD student in mathematical physics, specifically focused on Quantum Walks and their long-time dynamics.
 
