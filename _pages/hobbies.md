@@ -92,9 +92,9 @@ author_profile: true
          style="width: 100%; border-radius: 6px; cursor: zoom-in;">
   </a>
 
-  <a href="/images/hobbies/ski3.jpg"
+  <a href="/images/hobbies/ski3.JPG"
      class="image-popup" style="width: 32%;">
-    <img src="/images/hobbies/ski3.jpg"
+    <img src="/images/hobbies/ski3.JPG"
          alt="Skitouring"
          style="width: 100%; border-radius: 6px; cursor: zoom-in;">
   </a>
@@ -145,97 +145,97 @@ I particularly enjoy taking my camera with me. While I started with an analogue 
 </style>
 
 <div class="photo-gallery">
-  <a href="/images/hobbies/photo1.jpg" class="image-popup">
-    <img src="/images/hobbies/photo1.jpg" alt="Photo 1">
+  <a href="/images/hobbies/photo1.JPG" class="image-popup">
+    <img src="/images/hobbies/photo1.JPG" alt="Photo 1">
   </a>
-  <a href="/images/hobbies/photo2.jpg" class="image-popup">
-    <img src="/images/hobbies/photo2.jpg" alt="Photo 2">
+  <a href="/images/hobbies/photo2.JPG" class="image-popup">
+    <img src="/images/hobbies/photo2.JPG" alt="Photo 2">
   </a>
-  <a href="/images/hobbies/photo3.jpg" class="image-popup">
-    <img src="/images/hobbies/photo3.jpg" alt="Photo 3">
+  <a href="/images/hobbies/photo3.JPG" class="image-popup">
+    <img src="/images/hobbies/photo3.JPG" alt="Photo 3">
   </a>
-  <a href="/images/hobbies/photo4.jpg" class="image-popup">
-    <img src="/images/hobbies/photo4.jpg" alt="Photo 4">
+  <a href="/images/hobbies/photo4.JPG" class="image-popup">
+    <img src="/images/hobbies/photo4.JPG" alt="Photo 4">
   </a>
-  <a href="/images/hobbies/photo5.jpg" class="image-popup">
-    <img src="/images/hobbies/photo5.jpg" alt="Photo 5">
+  <a href="/images/hobbies/photo5.JPG" class="image-popup">
+    <img src="/images/hobbies/photo5.JPG" alt="Photo 5">
   </a>
-  <a href="/images/hobbies/photo6.jpg" class="image-popup">
-    <img src="/images/hobbies/photo6.jpg" alt="Photo 6">
+  <a href="/images/hobbies/photo6.JPG" class="image-popup">
+    <img src="/images/hobbies/photo6.JPG" alt="Photo 6">
   </a>
-  <a href="/images/hobbies/photo7.jpg" class="image-popup">
-    <img src="/images/hobbies/photo7.jpg" alt="Photo 7">
+  <a href="/images/hobbies/photo7.JPG" class="image-popup">
+    <img src="/images/hobbies/photo7.JPG" alt="Photo 7">
   </a>
-  <a href="/images/hobbies/photo8.jpg" class="image-popup">
-    <img src="/images/hobbies/photo8.jpg" alt="Photo 8">
+  <a href="/images/hobbies/photo8.JPG" class="image-popup">
+    <img src="/images/hobbies/photo8.JPG" alt="Photo 8">
   </a>
-  <a href="/images/hobbies/photo9.jpg" class="image-popup">
-    <img src="/images/hobbies/photo9.jpg" alt="Photo 9">
+  <a href="/images/hobbies/photo9.JPG" class="image-popup">
+    <img src="/images/hobbies/photo9.JPG" alt="Photo 9">
   </a>
-  <a href="/images/hobbies/photo10.jpg" class="image-popup">
-    <img src="/images/hobbies/photo10.jpg" alt="Photo 10">
+  <a href="/images/hobbies/photo10.JPG" class="image-popup">
+    <img src="/images/hobbies/photo10.JPG" alt="Photo 10">
   </a>
-  <a href="/images/hobbies/photo11.jpg" class="image-popup">
-    <img src="/images/hobbies/photo11.jpg" alt="Photo 11">
+  <a href="/images/hobbies/photo11.JPG" class="image-popup">
+    <img src="/images/hobbies/photo11.JPG" alt="Photo 11">
   </a>
-  <a href="/images/hobbies/photo12.jpg" class="image-popup">
-    <img src="/images/hobbies/photo12.jpg" alt="Photo 12">
+  <a href="/images/hobbies/photo12.JPG" class="image-popup">
+    <img src="/images/hobbies/photo12.JPG" alt="Photo 12">
   </a>
-  <a href="/images/hobbies/photo13.jpg" class="image-popup">
-    <img src="/images/hobbies/photo13.jpg" alt="Photo 13">
+  <a href="/images/hobbies/photo13.JPG" class="image-popup">
+    <img src="/images/hobbies/photo13.JPG" alt="Photo 13">
   </a>
-  <a href="/images/hobbies/photo14.jpg" class="image-popup">
-    <img src="/images/hobbies/photo14.jpg" alt="Photo 14">
+  <a href="/images/hobbies/photo14.JPG" class="image-popup">
+    <img src="/images/hobbies/photo14.JPG" alt="Photo 14">
   </a>
-  <a href="/images/hobbies/photo15.jpg" class="image-popup">
-    <img src="/images/hobbies/photo15.jpg" alt="Photo 15">
+  <a href="/images/hobbies/photo15.JPG" class="image-popup">
+    <img src="/images/hobbies/photo15.JPG" alt="Photo 15">
   </a>
-  <a href="/images/hobbies/photo16.jpg" class="image-popup">
-    <img src="/images/hobbies/photo16.jpg" alt="Photo 16">
+  <a href="/images/hobbies/photo16.JPG" class="image-popup">
+    <img src="/images/hobbies/photo16.JPG" alt="Photo 16">
   </a>
-  <a href="/images/hobbies/photo17.jpg" class="image-popup">
-    <img src="/images/hobbies/photo17.jpg" alt="Photo 17">
+  <a href="/images/hobbies/photo17.JPG" class="image-popup">
+    <img src="/images/hobbies/photo17.JPG" alt="Photo 17">
   </a>
-  <a href="/images/hobbies/photo18.jpg" class="image-popup">
-    <img src="/images/hobbies/photo18.jpg" alt="Photo 18">
+  <a href="/images/hobbies/photo18.JPG" class="image-popup">
+    <img src="/images/hobbies/photo18.JPG" alt="Photo 18">
   </a>
-  <a href="/images/hobbies/photo19.jpg" class="image-popup">
-    <img src="/images/hobbies/photo19.jpg" alt="Photo 19">
+  <a href="/images/hobbies/photo19.JPG" class="image-popup">
+    <img src="/images/hobbies/photo19.JPG" alt="Photo 19">
   </a>
-  <a href="/images/hobbies/photo20.jpg" class="image-popup">
-    <img src="/images/hobbies/photo20.jpg" alt="Photo 20">
+  <a href="/images/hobbies/photo20.JPG" class="image-popup">
+    <img src="/images/hobbies/photo20.JPG" alt="Photo 20">
   </a>
-  <a href="/images/hobbies/photo21.jpg" class="image-popup">
-    <img src="/images/hobbies/photo21.jpg" alt="Photo 21">
+  <a href="/images/hobbies/photo21.JPG" class="image-popup">
+    <img src="/images/hobbies/photo21.JPG" alt="Photo 21">
   </a>
-  <a href="/images/hobbies/photo22.jpg" class="image-popup">
-    <img src="/images/hobbies/photo22.jpg" alt="Photo 22">
+  <a href="/images/hobbies/photo22.JPG" class="image-popup">
+    <img src="/images/hobbies/photo22.JPG" alt="Photo 22">
   </a>
-  <a href="/images/hobbies/photo23.jpg" class="image-popup">
-    <img src="/images/hobbies/photo23.jpg" alt="Photo 23">
+  <a href="/images/hobbies/photo23.JPG" class="image-popup">
+    <img src="/images/hobbies/photo23.JPG" alt="Photo 23">
   </a>
-  <a href="/images/hobbies/photo24.jpg" class="image-popup">
-    <img src="/images/hobbies/photo24.jpg" alt="Photo 24">
+  <a href="/images/hobbies/photo24.JPG" class="image-popup">
+    <img src="/images/hobbies/photo24.JPG" alt="Photo 24">
   </a>
-  <a href="/images/hobbies/photo25.jpg" class="image-popup">
-    <img src="/images/hobbies/photo25.jpg" alt="Photo 25">
+  <a href="/images/hobbies/photo25.JPG" class="image-popup">
+    <img src="/images/hobbies/photo25.JPG" alt="Photo 25">
   </a>
-  <a href="/images/hobbies/photo26.jpg" class="image-popup">
-    <img src="/images/hobbies/photo26.jpg" alt="Photo 26">
+  <a href="/images/hobbies/photo26.JPG" class="image-popup">
+    <img src="/images/hobbies/photo26.JPG" alt="Photo 26">
   </a>
-  <a href="/images/hobbies/photo27.jpg" class="image-popup">
-    <img src="/images/hobbies/photo27.jpg" alt="Photo 27">
+  <a href="/images/hobbies/photo27.JPG" class="image-popup">
+    <img src="/images/hobbies/photo27.JPG" alt="Photo 27">
   </a>
-  <a href="/images/hobbies/photo28.jpg" class="image-popup">
-    <img src="/images/hobbies/photo28.jpg" alt="Photo 28">
+  <a href="/images/hobbies/photo28.JPG" class="image-popup">
+    <img src="/images/hobbies/photo28.JPG" alt="Photo 28">
   </a>
-  <a href="/images/hobbies/photo29.jpg" class="image-popup">
-    <img src="/images/hobbies/photo29.jpg" alt="Photo 29">
+  <a href="/images/hobbies/photo29.JPG" class="image-popup">
+    <img src="/images/hobbies/photo29.JPG" alt="Photo 29">
   </a>
-  <a href="/images/hobbies/photo30.jpg" class="image-popup">
-    <img src="/images/hobbies/photo30.jpg" alt="Photo 30">
+  <a href="/images/hobbies/photo30.JPG" class="image-popup">
+    <img src="/images/hobbies/photo30.JPG" alt="Photo 30">
   </a>
-  <a href="/images/hobbies/photo31.jpg" class="image-popup">
-    <img src="/images/hobbies/photo31.jpg" alt="Photo 31">
+  <a href="/images/hobbies/photo31.JPG" class="image-popup">
+    <img src="/images/hobbies/photo31.JPG" alt="Photo 31">
   </a>
 </div>
