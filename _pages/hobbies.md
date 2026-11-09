@@ -15,11 +15,7 @@ I generally enjoy spending time in the mountains, or nature in general. In summe
 
   <img src="/images/hobbies/Skyrace Matheysins 1.jpg"
        alt="Hiking"
-       style="width: 32%; border-radius: 6px;">
-
-  <img src="/images/hobbies/UT4M.jpg"
-       alt="Hiking"
-       style="width: 32%; border-radius: 6px;">  
+       style="width: 65%; border-radius: 6px;">
 </div>
 
 some 
