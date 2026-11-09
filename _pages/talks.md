@@ -8,4 +8,3 @@ author_profile: true
 - Seminar of Mathematical Physics, Grenoble, 05/10/2026, *Dynamical Localization for general Scattering Quantum Walks*.
 
 - QuantAlps Days, Grenoble, 09/10/2026, *Dynamical Localization for General Scattering Quantum Walks*. [Slides](/files/pres_quantalps_days26.pdf)
-
