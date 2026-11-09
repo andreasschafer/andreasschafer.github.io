@@ -99,46 +99,7 @@ author_profile: true
 </p>
 
 ## Photography 
-<style>
-/* Masonry gallery */
-.photo-gallery {
-  columns: 3;
-  column-gap: 12px;
-}
-
-.photo-gallery a {
-  display: block;
-  break-inside: avoid;
-  margin-bottom: 12px;
-}
-
-.photo-gallery img {
-  width: 100%;
-  height: auto;
-  display: block;
-  border-radius: 5px;
-  cursor: zoom-in;
-  transition: opacity 0.2s;
-}
-
-.photo-gallery img:hover {
-  opacity: 0.85;
-}
-
-/* Tablet */
-@media (max-width: 700px) {
-  .photo-gallery {
-    columns: 2;
-  }
-}
-
-/* Phone */
-@media (max-width: 450px) {
-  .photo-gallery {
-    columns: 1;
-  }
-}
-</style>
+<link rel="stylesheet" href="/assets/css/hobbies-gallery.css">
 
 <div class="photo-gallery">
   <a href="/images/hobbies/photo1.JPG" class="image-popup">
