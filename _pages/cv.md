@@ -14,13 +14,12 @@ redirect_from:
 - Oct. 2017 - Aug. 2021: Bachelor in Mathematics, Technical University Munich. Bachelorthesis: *Konvergenz des Zentralen Grenzwertsatzes in Sobolev Räumen*, Supervisor: Daniel Matthes [PDF version](/files/Bachelorarbeit.pdf)
 - Sep. 2008 - Jun. 2016: Highschool at Friedrich-Alexander-Gymnasium Neustadt a.d. Aisch
 
-## Stays Abroad
+## Research visits
 
 - Oct. 2025 - Dec. 2025: Research stay at Pontificia Universidad Católica de Chile, Santiago de Chile
-- Oct. 2024 - Dec. 2024: Research stay at Technical University of Munich (not really abroad to be honest)
+- Oct. 2024 - Dec. 2024: Research stay at Technical University of Munich
 - Sep. 2021 - Jun. 2022: Erasmus studies at Université Grenoble Alpes, France
 - Aug. 2019 - Aug. 2020: Erasmus studies at Universitetet i Bergen, Norway
-- Sep. 2016 - Apr. 2017: Work and Travel stay in Australia
 
 ## Languages and other skills
 
