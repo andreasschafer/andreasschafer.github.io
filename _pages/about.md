@@ -28,5 +28,5 @@ My PhD project is titled "Random Quantum Walks, Transport and Out-of-Equilibirum
 
 ## Contact
 
-- Email: andreas.schaefer@univ-grenoble-alpes.fr
+- Email: andreas.schaefer (at) univ-grenoble-alpes.fr
 - Office: Bureau 226, 100 rue des maths, 38610 Gières, France
