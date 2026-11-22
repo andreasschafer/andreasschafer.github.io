@@ -30,3 +30,12 @@ author_profile: true
 
 ## Conferences organized
 During the course of my PhD project, I had the pleasure to organize a workshop together with 5 other PhD students from the [QuanG](https://phdquantumgrenoble.univ-grenoble-alpes.fr/) doctoral program. Coming from different fields, we decided on Nanomagnetism as a topic, organizing the [Grenoble Workshop on Nanomagnetism 2026](https://gwn2026.sciencesconf.org/), which took place from the 23rd to the 26th of June 2026 in Grenoble.
+
+<div style="text-align: center; margin-top: 20px;">
+  <img src="/images/GWN2026_group.JPG"
+       alt="Participants of the Grenoble Workshop on Nanomagnetism 2026"
+       style="width: 65%; max-width: 550px; height: auto; border-radius: 5px;">
+  <p style="font-size: 0.85em; color: #777; margin-top: 6px;">
+    Participants of the Grenoble Workshop on Nanomagnetism 2026.
+  </p>
+</div>
