@@ -17,6 +17,7 @@ author_profile: true
 - May 2025, Bread Confestival (not a serious conference), Gites de Souberoche, Die, France: *Bread and Mathematics: some surprising links* [Slides](/files/pres_confestival25.pdf)
 - Feb. 2025, Mathematical Challenges in Quantum Mechanics, L'Aquila, Italy: *Dynamical Localization of Quantum Walks on the hexagonal lattice in the regime of strong disorder* [Slides](/files/pres_gssi25.pdf)
 - Jan 2025, Seminar of Mathematical Physics, Grenoble, France: *Dynamical Localization of Quantum Walks on the hexagonal lattice in the regime of strong disorder*
+- Nov. 2024, Seminar Analysis und Zufall, Munich, Germany: *Quantum Walks: their basic properties and dynamical localization* [Slides](/files/pres_anaundzufall24.pdf)
 
 ## Conferences attended (without talk)
 - Aug. 2026, Les Houches Summer School, *Quantum Theory on All Scales*
